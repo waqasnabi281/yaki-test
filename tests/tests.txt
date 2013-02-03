@@ -1,0 +1,23 @@
+Unit testing 
+
+input music
+
+
+1) feteched meta data from google. 
+2) fetched meta data from twitter.
+3) NO result from Facebook(both use personname or profile name to get images)
+4) No result from flicker(both use personname or profile name to get images)
+
+input terrorfall
+
+1) facebook gives result  but showing two empty images ( failed)
+2) Twitter  gives result
+3) Google Gives result
+4) Flicker fetch the results.
+
+input terrorfall
+
+1) facebook gives result
+2) Twitter  gives result
+3) Google Gives result
+4) Flicker fetch the results.

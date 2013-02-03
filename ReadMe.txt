@@ -1,0 +1,1 @@
+1)setup database set credentials on connections.php file in model
